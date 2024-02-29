@@ -6,3 +6,5 @@
 - 🎓 PhD Candidate at [University of Twente](https://www.utwente.nl/en/): Network Data Science, Machine Learning
 - ⚡ Python / Java
 - 🎽 Football / Swimming
+
+💬 Feel free to contact me
