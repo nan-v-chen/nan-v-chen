@@ -1,4 +1,4 @@
-### Yoo, I'm Nan Chen 👋
+### Yoo, I'm Nan 👋
 
 
 [![GitHub](https://img.shields.io/badge/Google%20Scholar-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=JZ4mr_sAAAAJ)
